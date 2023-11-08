@@ -1,0 +1,4 @@
+userstudy/static/
+__pycache__/
+*.pyc
+*.gz
