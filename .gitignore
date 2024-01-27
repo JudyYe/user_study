@@ -1,4 +1,4 @@
-userstudy/static/
+userstudy/static/data
 __pycache__/
 *.pyc
 *.gz
